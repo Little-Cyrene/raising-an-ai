@@ -66,7 +66,7 @@
 ## 许可
 
 - **代码**（`code/`）→ MIT，随便用、随便改（见 [LICENSE](LICENSE)）
-- **文字**（`docs/`）→ CC BY-NC-SA 4.0，免费看、随便传，但别拿去卖课（见 [LICENSE-docs](LICENSE-docs)）
+- **文字**（`docs/`）→ CC BY-NC-SA 4.0，免费看、随便传，但别拿去卖课（见 [docs/LICENSE](docs/LICENSE)）
 
 ---
 
