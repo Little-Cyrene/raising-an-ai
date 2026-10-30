@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 运行产物（这个项目里的脚本会生成视频/音频/帧）
+out/
+output/
+frames/
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+.idea/
